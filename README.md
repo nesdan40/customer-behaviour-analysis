@@ -110,6 +110,8 @@ Designed an interactive dashboard to visualize:
 - Product category sales
 - Age-group revenue analysis
 - Average purchase metrics
+  
+  <img width="1582" height="869" alt="Screenshot 2026-05-15 163707" src="https://github.com/user-attachments/assets/8da6f3a9-1031-4be9-874d-221cbbeab538" />
 
 ---
 
